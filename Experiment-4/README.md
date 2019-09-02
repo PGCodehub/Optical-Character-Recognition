@@ -10,7 +10,6 @@ Do you see the whole picture coming together? No?
 4. Sure enough if both the models are well trained, we will get excellent results!
 
 
-Refer the [blog](https://dudeperf3ct.github.io/project/2019/05/17/Fun-in-Deep-Learning-Project/#experiment-4) for further details.
 
 **Learnings**
 
