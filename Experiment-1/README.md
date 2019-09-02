@@ -7,7 +7,6 @@ The dataset we will be using for this task will be [EMNIST](https://www.nist.gov
 
 Here we experimented with 3 different architecture lenet, resnet and a custom CNN architecture. 
 
-Refer the [blog](https://dudeperf3ct.github.io/project/2019/05/17/Fun-in-Deep-Learning-Project/#experiment-1) for further details.
 
 **Learnings**
 
