@@ -7,9 +7,6 @@ The objective in this experiment is to design a line detector. Given a paragraph
 
 Now that we have dataset, images with paragraph of size (256, 256) and ground truths of size (256, 256, 3) we use full convolution neural networks to give output of size (256, 256, 3) for an input of (256, 256). We use 3 architectures, lenet-FCN (converted to FCNN), resnet-FCN and custom-FCN.
 
-Results are bit embarassing.
-
-Refer the [blog](https://dudeperf3ct.github.io/project/2019/05/17/Fun-in-Deep-Learning-Project/#experiment-3) for further details.
 
 **Learnings**
 
