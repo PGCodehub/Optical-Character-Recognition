@@ -13,9 +13,8 @@ Do you see the whole picture coming together? No?
 
 **Learnings**
 
-- Investigate as to why model is not performing well in segmenting. Having a good line segmentor is critical for our OCR pipeline.
-
-
+- Investigate as to why model is not performing well in segmenting. Having a good line segmentor is critical for our OCR pipeline
+and look for better accuracy overall
 
 A short description of the project.
 
