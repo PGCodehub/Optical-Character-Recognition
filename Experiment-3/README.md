@@ -5,7 +5,7 @@ Almost done! We have completed Line Text predictor. Now comes the part of implem
 
 The objective in this experiment is to design a line detector. Given a paragraph image the model must be able to detect each line. What do you mean by detect? We will preprocess the paragraph dataset such that each pixel corresponds to either of the 3 classes i.e. 0 if it belongs to background, 1 if it belongs to odd numbered line and 2 if it belongs to even numbered line.
 
-Now that we have dataset, images with paragraph of size (256, 256) and ground truths of size (256, 256, 3) we use full convolution neural networks to give output of size (256, 256, 3) for an input of (256, 256). We use 3 architectures, lenet-FCN (converted to FCNN), resnet-FCN and custom-FCN.
+Now that we have dataset, images with paragraph of size (256, 256) and ground truths of size (256, 256, 3) we use full convolution neural networks to give output of size (256, 256, 3) for an input of (256, 256). We use 3 architectures, lenet-FCN (converted to FCNN), resnet-FCN and custom-FCN that we created.
 
 
 **Learnings**
