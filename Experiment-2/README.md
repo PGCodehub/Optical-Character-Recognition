@@ -3,7 +3,7 @@ Experiment-2
 
 In this experiment, we will build a Line Text Recognizer. Given a image of line of words, the task will be to output what characters are present in the line.
 
-We will use sliding window of CNN and LSTM along with [CTC loss](https://distill.pub/2017/ctc/) function.
+We will use sliding window of CNN and LSTM along with [CTC loss](https://distill.pub/2017/ctc/) function which helps us a lot here
 
 For this we will use a synthetic dataset by constructing sentences using EMNIST dataset and also use [IAM dataset](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database) for training. 
 
